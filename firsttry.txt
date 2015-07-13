@@ -2,3 +2,4 @@ this is just some random text
 
 second version is here
 
+let your collaborator edit the file
